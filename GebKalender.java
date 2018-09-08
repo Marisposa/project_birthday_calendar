@@ -4,6 +4,7 @@ import java.awt.event.ActionListener;
 import java.awt.event.WindowEvent;
 import java.awt.event.ActionEvent;
 
+//This is the GUI for the birthday calender.
 public class GebKalender extends Frame // Frame erzeugt ein eigenständiges Programmfenster
 implements WindowListener, ActionListener
 {
